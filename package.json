@@ -1,0 +1,23 @@
+{
+  "name": "javascript_exercises",
+  "version": "1.0.0",
+  "description": "This Repo is meant for practice exercises on Javascript concepts (ES6)",
+  "main": "classes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/contactpunit/javascript_exercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/contactpunit/javascript_exercises/issues"
+  },
+  "homepage": "https://github.com/contactpunit/javascript_exercises#readme",
+  "dependencies": {
+    "feedparser": "^2.2.10",
+    "node-fetch": "^2.6.1"
+  }
+}
