@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/contactpunit/javascript_exercises#readme",
   "dependencies": {
+    "argparse": "^2.0.1",
     "feedparser": "^2.2.10",
     "node-fetch": "^2.6.1"
   }
