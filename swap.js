@@ -1,6 +1,7 @@
 // Swap character case
 
 const text = "Today we added TWO NEW Bites to our Platform, exciting!"
+
 function convertChars(text) {
     const values = text.split('').map(elem => {
         return _flipCase(elem)
