@@ -9,7 +9,7 @@ function smallest(numlist) {
     for (const perm of uniqueArray) {
         allPerms.push(parseInt(perm.join('')))
     }
-    return allPerms.reduce((max, curr) => max <= curr ? max : curr)
+    return allPerms.reduce((max, curr) => max <= curr ? max : curr) // Cannot use Max.min with large arrays
 }
 
 console.log(smallest([]))
