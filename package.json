@@ -20,6 +20,7 @@
     "argparse": "^2.0.1",
     "es-iter": "^1.1.2",
     "feedparser": "^2.2.10",
+    "generatorics": "^1.1.0",
     "node-fetch": "^2.6.1"
   }
 }
