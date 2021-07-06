@@ -1,4 +1,4 @@
-const names = 'Julian Bob PyBites Dante Martin Rodolfo'.split(' ')
+const names = 'James michael javascript Dante Martin Rodolfo'.split(' ')
 const aliases = new Array(2).fill('Javascript Coder'.split(' ')).flat()
 const awake = new Array(4).fill(['yes', 'no']).flat()
 
