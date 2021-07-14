@@ -6,14 +6,14 @@ function makeHtml(decoParams) {
     return function inputparams(fn) {
         return function decorator(text) {
             console.log(`<${decoParams}>`)
-            console.log(fn(text))
+            fn(text)
             console.log(`<${decoParams}/>`)
         }
     }
 }
 
 function getText(text) {
-    return text
+    console.log(text)
 }
 
 const text = 'I code with PyBites'
