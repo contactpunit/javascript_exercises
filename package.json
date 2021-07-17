@@ -18,6 +18,8 @@
   "homepage": "https://github.com/contactpunit/javascript_exercises#readme",
   "dependencies": {
     "argparse": "^2.0.1",
+    "csv-parse": "^4.16.0",
+    "csv-parser": "^3.0.0",
     "es-iter": "^1.1.2",
     "feedparser": "^2.2.10",
     "generatorics": "^1.1.0",
